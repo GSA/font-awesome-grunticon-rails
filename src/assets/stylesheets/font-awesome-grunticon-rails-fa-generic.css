@@ -149,6 +149,9 @@
   text-align: center;
 }
 .fa-stack-1x {
+  padding-top: 8%;
+  padding-left: 25%;
+  width: 1em;
   line-height: inherit;
 }
 .fa-stack-2x {
