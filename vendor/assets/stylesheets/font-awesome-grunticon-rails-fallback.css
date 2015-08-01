@@ -22,6 +22,14 @@
 
 .fa-caret-down { background-image: url('png/caret-down.png'); background-repeat: no-repeat; }
 
+.fa-circle-black { background-image: url('png/circle-black.png'); background-repeat: no-repeat; }
+
+.fa-circle-inactive { background-image: url('png/circle-inactive.png'); background-repeat: no-repeat; }
+
+.fa-circle-lightblue { background-image: url('png/circle-lightblue.png'); background-repeat: no-repeat; }
+
+.fa-circle { background-image: url('png/circle.png'); background-repeat: no-repeat; }
+
 .fa-code-black { background-image: url('png/code-black.png'); background-repeat: no-repeat; }
 
 .fa-code-inactive { background-image: url('png/code-inactive.png'); background-repeat: no-repeat; }
@@ -45,6 +53,14 @@
 .fa-desktop-lightblue { background-image: url('png/desktop-lightblue.png'); background-repeat: no-repeat; }
 
 .fa-desktop { background-image: url('png/desktop.png'); background-repeat: no-repeat; }
+
+.fa-envelope-black { background-image: url('png/envelope-black.png'); background-repeat: no-repeat; }
+
+.fa-envelope-inactive { background-image: url('png/envelope-inactive.png'); background-repeat: no-repeat; }
+
+.fa-envelope-lightblue { background-image: url('png/envelope-lightblue.png'); background-repeat: no-repeat; }
+
+.fa-envelope { background-image: url('png/envelope.png'); background-repeat: no-repeat; }
 
 .fa-eye-black { background-image: url('png/eye-black.png'); background-repeat: no-repeat; }
 
@@ -101,6 +117,14 @@
 .fa-sign-out-lightblue { background-image: url('png/sign-out-lightblue.png'); background-repeat: no-repeat; }
 
 .fa-sign-out { background-image: url('png/sign-out.png'); background-repeat: no-repeat; }
+
+.fa-thumb-tack-black { background-image: url('png/thumb-tack-black.png'); background-repeat: no-repeat; }
+
+.fa-thumb-tack-inactive { background-image: url('png/thumb-tack-inactive.png'); background-repeat: no-repeat; }
+
+.fa-thumb-tack-lightblue { background-image: url('png/thumb-tack-lightblue.png'); background-repeat: no-repeat; }
+
+.fa-thumb-tack { background-image: url('png/thumb-tack.png'); background-repeat: no-repeat; }
 
 .fa-user-black { background-image: url('png/user-black.png'); background-repeat: no-repeat; }
 
