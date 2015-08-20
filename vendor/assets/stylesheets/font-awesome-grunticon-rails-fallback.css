@@ -78,6 +78,14 @@
 
 .fa-file { background-image: url('png/file.png'); background-repeat: no-repeat; }
 
+.fa-filter-black { background-image: url('png/filter-black.png'); background-repeat: no-repeat; }
+
+.fa-filter-inactive { background-image: url('png/filter-inactive.png'); background-repeat: no-repeat; }
+
+.fa-filter-lightblue { background-image: url('png/filter-lightblue.png'); background-repeat: no-repeat; }
+
+.fa-filter { background-image: url('png/filter.png'); background-repeat: no-repeat; }
+
 .fa-globe-black { background-image: url('png/globe-black.png'); background-repeat: no-repeat; }
 
 .fa-globe-inactive { background-image: url('png/globe-inactive.png'); background-repeat: no-repeat; }
