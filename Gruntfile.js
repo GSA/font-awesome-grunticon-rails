@@ -60,6 +60,7 @@ module.exports = function(grunt) {
             inactive: '#999',
             lightblue: '#08c'
           },
+          corsEmbed: true,
           cssprefix: '.fa-',
           datapngcss: 'font-awesome-grunticon-rails-icons.data.png.css',
           datasvgcss: 'font-awesome-grunticon-rails-icons.data.svg.css',
