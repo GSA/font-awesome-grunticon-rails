@@ -1,0 +1,12 @@
+name: 'Font Awesome Grunticon Rails'
+description: 'Font awesome integration for DigitalGov Search'
+license: null
+openSourceProject: 1
+governmentWideReuseProject: 0
+tags:
+    - GSA
+    - DigitalGovSearch
+    - icons
+    - display
+contact:
+    email: dawn.mccleskey@gsa.gov
